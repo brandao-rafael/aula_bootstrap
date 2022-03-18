@@ -1,0 +1,37 @@
+body{
+    font: 20px 'Smooch Sans', sans-serif;
+}
+
+
+.navbar{
+    background-color: #8fbd11;
+}
+
+.quemsomos{
+    background-color: cadetblue;
+    color: white;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: rgb(81, 131, 133);
+    color: antiquewhite;
+}
+
+.logo{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.servicos{
+    background-color: rgb(60, 96, 97) ;
+    color: azure;
+}
+.bg-footer{
+    background-color: rgb(32, 50, 51);
+    color: beige;
+}
